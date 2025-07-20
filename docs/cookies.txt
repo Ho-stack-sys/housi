@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+houss.co.za	TRUE	/	FALSE	1999999999	__wpdm_client	f6972b3dcf3e330c73c9a47ca3c6b1b5
+
